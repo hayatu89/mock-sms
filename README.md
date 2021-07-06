@@ -1,4 +1,5 @@
-# Sms
+# mock-sms
+Mock SMS server for your apps in development
 
 To start your Phoenix server:
 
